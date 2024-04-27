@@ -1,0 +1,18 @@
+[2024-04-26 16:48:26,591] INFO: Setting number of CPUs to 4
+[2024-04-26 16:48:26,592] INFO: Binning for short_read
+[2024-04-26 16:48:26,592] INFO: SemiBin will run in semi supervised mode
+[2024-04-26 16:48:31,438] INFO: Did not detect GPU, using CPU.
+[2024-04-26 16:48:31,450] INFO: Generating training data...
+[2024-04-26 16:48:32,747] INFO: Calculating coverage for every sample.
+[2024-04-26 16:48:34,511] INFO: Processed: sample1.mapped.sorted.bam
+[2024-04-26 16:48:34,854] INFO: Running mmseqs and generate cannot-link file.
+[2024-04-26 16:48:35,397] INFO: Downloading GTDB to /home/gopi/.cache/SemiBin/mmseqs2-GTDB.  It will take a while..
+[2024-04-26 17:23:22,638] INFO: Download finished. Checking MD5...
+[2024-04-26 19:48:10,773] INFO: Training model and clustering.
+[2024-04-26 19:48:12,333] INFO: Start training from a single sample.
+[2024-04-26 19:48:56,472] INFO: Training model...
+[2024-04-26 19:49:44,210] INFO: Training finished.
+[2024-04-26 19:49:44,464] INFO: Start binning.
+[2024-04-26 19:49:50,622] INFO: Number of bins prior to reclustering: 3
+[2024-04-26 19:49:54,512] INFO: Number of bins after reclustering: 3
+[2024-04-26 19:49:54,588] INFO: Binning finished
